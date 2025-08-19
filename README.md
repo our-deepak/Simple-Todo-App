@@ -18,4 +18,4 @@ In this updated version, I have made some improvements:
 
 ## 📸 Preview
 
-![Preview](./screenshot.png)
+![Preview](./Screenshot.png)
