@@ -1,13 +1,36 @@
-# ✅ Todo Application 
+# 📝 Todo Web-App
 
-This is the **second version** of my Todo Application.  
-The first version was built using **HTML and JavaScript** with only the basic add-task functionality.  
+A simple **Todo App** built using **HTML, CSS, and JavaScript**.  
+This app helps you quickly add, view, and manage your daily tasks **without requiring login**.  
 
-In this updated version, I have made some improvements:  
-- 🎨 Added **CSS styling** for a better and clean UI  
-- 🗑️ Added a **Delete button** to remove tasks easily  
+---
 
-  --- 
+## 🚀 Features
+- ➕ Add and view tasks instantly  
+- 💾 Tasks are stored locally in the browser  
+- ❌ Delete tasks once completed  
+
+---
+
+## ✅ Pros
+- No login required  
+- Tasks are saved automatically in local storage  
+
+---
+
+## ⚠️ Cons
+- If you **clear browser history/cache**, you will lose all your saved tasks  
+
+---
+
+## 🔮 Future Scope
+Planned improvements:
+- 📅 Add tasks **date-wise**  
+- 🗂️ Categorize tasks (Work, Personal, etc.)  
+- ✏️ Edit existing tasks  
+- 📜 Maintain **task history**  
+
+---
 
 ## 🚀 Live Demo
 [[Click here to try the app](https://todo-ourdeepak.netlify.app)] 
